@@ -1,1 +1,0 @@
-# Generator-of-finity-groups
