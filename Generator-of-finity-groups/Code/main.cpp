@@ -6,6 +6,8 @@
 QTextStream cout(stdout);
 QTextStream cin(stdin);
 
+//Итерация присуща человеку, а рекурсия - богу.
+//- Л. Дойч
 
 int main(int argc, char *argv[])
 {
