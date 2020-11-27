@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include <QString>
 #include <QTextStream>
-#include <Group/group.h>
+#include "Group/group.h"
 
 QTextStream cout(stdout);
 QTextStream cin(stdin);
