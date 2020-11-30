@@ -47,7 +47,7 @@ void GroupGenerator::FindType()
     if(print) GroupPrint();
 }
 
-void GroupGenerator::Generator(int x,int y,int neutral)
+void GroupGenerator::Generate_all_group(int x,int y,int neutral)
 {
     if(x == neutral)
     {
